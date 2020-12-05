@@ -1,0 +1,2 @@
+google-cloud-storage>=1.19.1
+google-cloud-texttospeech>=2.2.0
